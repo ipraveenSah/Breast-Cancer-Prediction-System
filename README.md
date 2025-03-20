@@ -2,7 +2,7 @@
 
  Breast Cnacer Description :-
                                                                            
-                                                                                Types of Tumor
+                                                                         Types of Tumor
 
                                                                                   
  1. Benign Tumor                                                                            
@@ -12,6 +12,7 @@
 - Slow growing
 - Do not  metastasize(spread to other part of body)
 - Cell are normal
+  
 
  2. Malignant Tumor
 -  Non Cancerous
