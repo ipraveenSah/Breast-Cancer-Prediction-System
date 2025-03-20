@@ -1,10 +1,11 @@
 # Breast-Cancer-Prediction-System
 
-Breast Cnacer Description :-
+                                                                           Breast Cnacer Description :-
+                                                                           
+                                                                                Types of Tumor
+                                                                                  
 
-                                                Tpes of Tumor
-
-Benign Tumor 
+ Benign Tumor 
 - Non Cancerous
 - Capsulated
 - Non Invasive
