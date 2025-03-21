@@ -2,7 +2,7 @@
 
  Breast Cnacer Description :-
                                                                            
-                                                                         Types of Tumor
+                                                      Types of Tumor
 
                                                                                   
  1. Benign Tumor                                                                            
