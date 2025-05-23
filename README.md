@@ -22,7 +22,7 @@
 - Do not  metastasize(spread to other part of body)
 - Cell are normal
 
-                                                               Work Flow
+                                                      Work Flow
 
   Dataset(Training Dataset) ---> Data Pre Processing ----> Train Test Split ---> Logistic Regreesion Model
 
