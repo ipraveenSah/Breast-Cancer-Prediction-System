@@ -2,7 +2,7 @@
 
  Breast Cnacer Description :-
                                                                            
-                                                      Types of Tumor
+                                     Types of Tumor
 
                                                                                   
  1. Benign Tumor                                                                            
@@ -22,8 +22,8 @@
 - Do not  metastasize(spread to other part of body)
 - Cell are normal
 
-                                                      Work Flow
-
+                                        Work Flow
+ 
   Dataset(Training Dataset) ---> Data Pre Processing ----> Train Test Split ---> Logistic Regreesion Model
 
   New Dataset ----> Trained Logistic Regreesion Model ---> Prediction (Benign OR malignant)
